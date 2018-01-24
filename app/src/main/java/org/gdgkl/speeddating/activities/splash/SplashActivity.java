@@ -1,7 +1,9 @@
-package org.gdgkl.speeddating;
+package org.gdgkl.speeddating.activities.splash;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import org.gdgkl.speeddating.R;
 
 public class SplashActivity extends AppCompatActivity {
 

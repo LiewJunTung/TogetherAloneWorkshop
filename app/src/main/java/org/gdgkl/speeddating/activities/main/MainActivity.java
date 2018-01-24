@@ -1,9 +1,11 @@
-package org.gdgkl.speeddating;
+package org.gdgkl.speeddating.activities.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import org.gdgkl.speeddating.R;
+
+public class MainActivity extends AppCompatActivity implements MainContract.View{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
